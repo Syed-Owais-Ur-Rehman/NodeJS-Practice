@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Syed-Owais-Ur-Rehman/NodeJS-Practice/issues"
   },
-  "homepage": "https://github.com/Syed-Owais-Ur-Rehman/NodeJS-Practice#readme"
+  "homepage": "https://github.com/Syed-Owais-Ur-Rehman/NodeJS-Practice#readme",
+  "dependencies": {
+    "url": "^0.11.3"
+  }
 }
